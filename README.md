@@ -1,6 +1,6 @@
 # Joplin Favorites
 
-> **Note**
+> [!NOTE]
 >
 > This plugin is a fork of the original plugin, maintained at https://github.com/benji300/joplin-favorites/.
 > At present, it is intended to fix an incompatibility with Electron 26 (Chromium 116). [See the relevant bug report](https://github.com/laurent22/joplin/issues/9280).
@@ -10,7 +10,8 @@ Favorites is a plugin to extend the UX and UI of [Joplin's](https://joplinapp.or
 
 It allows to save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
 
-> :warning: **CAUTION** - Requires Joplin **v2.1.5** or newer
+> [!WARNING]
+> **CAUTION** - Requires Joplin **v2.1.5** or newer
 
 ## Features
 
