@@ -5,9 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.3.1] - 2023-11-14
 
-- None
+### Fixed
+
+- Use `readOnly` instead of `disabled` inputs as entries in the favorites sidebar. This [fixes clicking on favorited items](https://github.com/laurent22/joplin/issues/9280) in Electron 26 (Joplin 2.13.5).
+
+### Changed
+
+- (Internal) Updated plugin API
 
 ## [1.3.0] - 2021-08-12
 
