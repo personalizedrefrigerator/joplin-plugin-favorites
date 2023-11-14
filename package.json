@@ -2,14 +2,14 @@
   "name": "joplin-plugin-personalizedrefrigerator-favorites",
   "version": "1.3.1",
   "description": "Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.",
-  "author": "Originally by Benji300, now maintained by @personalizedrefrigerator",
-  "homepage": "https://github.com/benji300/joplin-favorites",
+  "author": "Originally by @Benji300, now maintained by @personalizedrefrigerator",
+  "homepage": "https://github.com/personalizedrefrigerator/joplin-plugin-favorites/",
   "bugs": {
-    "url": "https://github.com/benji300/joplin-favorites/issues"
+    "url": "https://github.com/personalizedrefrigerator/joplin-plugin-favorites/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benji300/joplin-favorites.git"
+    "url": "git+https://github.com/personalizedrefrigerator/joplin-plugin-favorites.git"
   },
   "scripts": {
     "dist": "webpack --env joplin-plugin-config=buildMain && webpack --env joplin-plugin-config=buildExtraScripts && webpack --env joplin-plugin-config=createArchive",
