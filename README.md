@@ -1,9 +1,9 @@
 # Joplin Favorites
 
-> [!NOTE]
+> [!IMPORTANT]
+> At present, this plugin is intended for testing purposes (for [this pull request](https://github.com/laurent22/joplin/pull/9302)).
 >
 > This plugin is a fork of the original plugin, maintained at https://github.com/benji300/joplin-favorites/.
-> At present, it is intended to fix an incompatibility with Electron 26 (Chromium 116). [See the relevant bug report](https://github.com/laurent22/joplin/issues/9280).
 >
 
 Favorites is a plugin to extend the UX and UI of [Joplin's](https://joplinapp.org/) desktop application.
